@@ -1,0 +1,8 @@
+Pacienti me SSN 5 ju ndryshua Palergjite nga 5 ne 1
+Doktori me Did 5 ju ndryshua Dgrada nga 5 ne 2
+Doktori me Did 4 ju ndryshua Dgrada nga 4 ne 3
+
+Hospitalizimi i pacienteve -> HPid instanca e 9t nga 2 ne 3
+Hospitalizimi i pacienteve -> HPid instanca e 10t nga 1 ne 10
+
+Shtimi i tabeles Faturat_Pagesa(Fid:integer,  Fbanka:string,	Ftarifa:integer)
